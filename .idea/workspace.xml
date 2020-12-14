@@ -3,33 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35bff426-aac2-4763-8553-f8198a31634a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607926277225</updated>
       <workItem from="1607926278397" duration="3046000" />
-      <workItem from="1607936324202" duration="2540000" />
+      <workItem from="1607936324202" duration="3187000" />
     </task>
     <servers />
   </component>

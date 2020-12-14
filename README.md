@@ -6,3 +6,17 @@
 - now you can deploy the "server" folder on any hosting service.
 
 Yeah! that’s it.
+
+Dependencies :-
+
+(Client)
+
+1) npm install gulp --save-dev
+
+2) npm install rimraf --save-dev
+
+3) npm install cheerio --save-dev
+
+(Server)
+
+1) composer install or composer update
