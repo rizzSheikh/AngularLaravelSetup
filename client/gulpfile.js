@@ -6,10 +6,11 @@ var cheerio = require('cheerio');
 gulp.task('dist', function (done) {
 
   //remove old dist files from laravel public folder
-  rimraf.sync('./../server/public/client');
+  rimraf.sync('./../server/public/client/**/*');
 
   //copy dist folder into laravel public folder
-  gulp.src(['./dist/client/**/*', '!./dist/client/index.html', '!./dist/stats.json']).pipe(gulp.dest('./../server/public/client'));
+  //gulp.src(['./dist/client/**/*', '!./dist/client/index.html', '!./dist/stats.json']).pipe(gulp.dest('./../server/public/client'));
+  gulp.src('./dist/client/**/*').pipe(gulp.dest('./../server/public/client'));
 
   var $ = cheerio.load(fs.readFileSync('./dist/client/index.html', 'utf8'));
 
@@ -42,5 +43,6 @@ gulp.task('dist', function (done) {
   content = content.replace(jsSearch, jsReplaceStr).replace(cssSearch, cssReplaceStr);
 
   fs.writeFileSync('./../server/resources/views/welcome.blade.php', content, 'utf8');
+
   done();
 });

@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-dev":"nodemon -e ts,html -w ./src -x ng build && gulp dist"
+    "build-dev":"ng build && gulp dist"
   },
   "private": true,
   "dependencies": {
