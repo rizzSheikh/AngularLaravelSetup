@@ -2,159 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35bff426-aac2-4763-8553-f8198a31634a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AngularLaravelSetup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/main-es2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/main-es2015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/main-es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/main-es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/polyfills-es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/polyfills-es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/runtime-es2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/runtime-es2015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/runtime-es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/runtime-es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/styles-es2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/styles-es2015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/styles-es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/styles-es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/vendor-es2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/vendor-es2015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/vendor-es5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/client/vendor-es5.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/main-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/main-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/main-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/main-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/polyfills-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/runtime-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/styles-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/vendor-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/server/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -299,10 +181,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MY_DATA\Projects\Examples\Laravel\AngularLaravelSetup\server\public" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MY_DATA\Projects\Examples\Laravel\AngularLaravelSetup\server\public" />
     </key>
   </component>
@@ -314,7 +196,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607926277225</updated>
-      <workItem from="1607926278397" duration="2861000" />
+      <workItem from="1607926278397" duration="3046000" />
+      <workItem from="1607936324202" duration="2540000" />
     </task>
     <servers />
   </component>
@@ -322,6 +205,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2626" y="222" key="RollbackChangesDialog" timestamp="1607938162893">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2626" y="222" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607938162893" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607928549759">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
